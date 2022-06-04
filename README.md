@@ -1,4 +1,4 @@
-# Diabetes_Classifier_Model
+# Diabetes Classifier Model
 
 -The objective of this project is to build a predictive machine learning model to predict based on diagnostic measurements whether a patient has diabetes. This is a     binary (2-class) classification project with supervised learning.
 
